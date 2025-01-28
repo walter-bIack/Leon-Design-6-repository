@@ -16,7 +16,7 @@
 - Remote Controlled RC car
 - 3-D printed obstacle avoidance LIDAR robot
 
-My favorite projects involve 'Circut Design'
+My favorite projects involve `Circut Design`
 
 ---
 
