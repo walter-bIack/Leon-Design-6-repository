@@ -20,7 +20,7 @@ My favorite projects involve `Circut Design`
 
 ---
 
-[I also read in my spare time. Check out the book I am reading right now](https://en.wikipedia.org/wiki/Blood_Meridian)
+[ICheck out my team website](https://sites.google.com/d/1rx4OGC_hiLhKw1ctHTEPWlEH2YOQiW7u/p/1zfBeacMWokJQrGXjpGjMwUATT6Q3fnSU/edit?pli=1)
 
 This is the worst robbery I have ever had on wordle
 
