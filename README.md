@@ -13,14 +13,14 @@
 > Projects Completed
 
 - Automatic Watering System for Plants
-- Remote Controlled RC car
+- Remote Controlled RC Car
 - 3-D Printed Obstacle Avoidance LIDAR Robot
 
 My favorite projects involve `Circut Design`
 
 ---
 
-[ICheck out my team website](https://sites.google.com/d/1rx4OGC_hiLhKw1ctHTEPWlEH2YOQiW7u/p/1zfBeacMWokJQrGXjpGjMwUATT6Q3fnSU/edit?pli=1)
+[Check out my team website](https://sites.google.com/d/1rx4OGC_hiLhKw1ctHTEPWlEH2YOQiW7u/p/1zfBeacMWokJQrGXjpGjMwUATT6Q3fnSU/edit?pli=1)
 
 This is the worst robbery I have ever had on Wordle
 
