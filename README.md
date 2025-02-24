@@ -14,7 +14,7 @@
 
 - Automatic Watering System for Plants
 - Remote Controlled RC car
-- 3-D printed obstacle avoidance LIDAR robot
+- 3-D Printed Obstacle Avoidance LIDAR Robot
 
 My favorite projects involve `Circut Design`
 
@@ -22,6 +22,6 @@ My favorite projects involve `Circut Design`
 
 [ICheck out my team website](https://sites.google.com/d/1rx4OGC_hiLhKw1ctHTEPWlEH2YOQiW7u/p/1zfBeacMWokJQrGXjpGjMwUATT6Q3fnSU/edit?pli=1)
 
-This is the worst robbery I have ever had on wordle
+This is the worst robbery I have ever had on Wordle
 
 ![](https://github.com/user-attachments/assets/1c2586d5-5063-40c2-9119-81fcc91a3ed1)
