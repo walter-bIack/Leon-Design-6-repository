@@ -4,8 +4,6 @@
 
 **Description:** For this lab, we were tasked with using Python packages using bash and install the python packages astral, jdcal and geopy in order to test different functions.
 
-**Reasorces used:** In this lab I used [stack overflow](https://stackoverflow.com/questions)
-
 cd iot and *3
 --
 Siwitched the directory to lesson 3 so we could execute the following commands.
